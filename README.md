@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Paola ・ﾟ✧
+# Hi there! 👋 I'm Paola ✧
 
 🎓 Computer Engineering Researcher  
 🔬 Artificial Intelligence × Software Engineering  
@@ -6,7 +6,7 @@
 
 ---
 
-## ★・ﾟ✧ About Me
+## ⋆｡𖦹°⭒ About Me
 
 I am a Computer Engineering researcher working at the intersection of **Artificial Intelligence and Software Engineering**.
 
